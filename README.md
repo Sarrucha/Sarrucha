@@ -2,21 +2,37 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Ride You Rent – Cloud-Based Vehicle Rental System(C#, MVC, .NET, SQL )</b>  
-  - Developed a **C# ASP.NET web application** for managing e-hailing vehicle rentals.  
-  - [GitHub Repository (if available)](your-repo-link-here)
+- <b>Aweh Productions – Cloud-Based Vaccination Verification System (Azure, .NET Core, SQL)</b>  
+  - Developed an **Azure Function App** with **Queue Triggers** for vaccination status verification.  
+  - Integrated **Azure Storage Queue & Azure SQL Database** for efficient data processing.  
+  - Built a **.NET Core Console Application** to queue and process vaccination records.  
+  - [GitHub Repository](your-repo-link-here)  
+
+- <b>TK and NZ Mover App – Web-Based Quoting System (JavaScript, HTML, CSS)</b>  
+  - Developed a **responsive web app** for TK and NZ Trading and Projects PTY LTD to enhance online presence.  
+  - Implemented a **contact form with EmailJS** for seamless client communication.  
+  - Integrated a **PayGate sandbox** to simulate secure online service purchases.
+  - [GitHub Repository ](your-repo-link-here)   
+
+- <b>Vital Sync Fitness App – Mobile Fitness Tracking (Kotlin, Android Studio, Retrofit)</b>  
+  - Designed an **intuitive UI in Figma** for a personalized user experience.  
+  - Developed an **Android mobile app** with **biometric login, diet tracking, and notifications**.  
+  - Integrated **Retrofit API** for real-time progress tracking and **Single Sign-On (SSO)** authentication.
+  - [GitHub Repository ](your-repo-link-here)  
+
+<h2>🌍 Live Project Websites</h2>
+
+- [TK and NZ Mover App](https://mehlulibooi.github.io/Moverapp/index.html)
 
 <h2>📺 Videos To My Projects</h2>
 
 - [Vital Sync Health And Wellness Mobile Application](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Aweh Productions Function Verification System](https://drive.google.com/file/d/12O3r2gcEKvz-bxKRgu6mvFWBZQz5vSd4/view?usp=drive_link)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📬 Connect with Me</h2>
 
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📧 Email: [lwazi094@gmail.com](mailto:lwazi094@gmail.com)  
+- 💼 LinkedIn: [Lwazi Mesatywa](https://www.linkedin.com/in/lwazi-mesatywa-219299286)
 
 <!--
 **Sarrucha/Sarrucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
