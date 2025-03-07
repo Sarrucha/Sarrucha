@@ -18,7 +18,7 @@
   - Designed an **intuitive UI in Figma** for a personalized user experience.  
   - Developed an **Android mobile app** with **biometric login, diet tracking, and notifications**.  
   - Integrated **Retrofit API** for real-time progress tracking and **Single Sign-On (SSO)** authentication.
-  - [GitHub Repository ](your-repo-link-here)  
+  - [GitHub Repository ](https://github.com/Sarrucha/Vital-Sync)  
 
 <h2>🌍 Live Project Websites</h2>
 
@@ -27,7 +27,8 @@
 <h2>📺 Videos To My Projects</h2>
 
 - [Vital Sync Health And Wellness Mobile Application](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Aweh Productions Function Verification System](https://drive.google.com/file/d/12O3r2gcEKvz-bxKRgu6mvFWBZQz5vSd4/view?usp=drive_link)
+- [Aweh Productions Function Verification System](https://youtu.be/57851H4v6w0)
+- [TK and NZ Mover App](https://www.youtube.com/watch?v=J6dylrHue9U)
 
 <h2>📬 Connect with Me</h2>
 
