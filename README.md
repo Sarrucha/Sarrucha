@@ -12,7 +12,7 @@
   - Developed a **responsive web app** for TK and NZ Trading and Projects PTY LTD to enhance online presence.  
   - Implemented a **contact form with EmailJS** for seamless client communication.  
   - Integrated a **PayGate sandbox** to simulate secure online service purchases.
-  - [GitHub Repository ](your-repo-link-here)   
+  - [GitHub Repository ](https://github.com/Sarrucha/tk-nz-moving-app)   
 
 - <b>Vital Sync Fitness App – Mobile Fitness Tracking (Kotlin, Android Studio, Retrofit)</b>  
   - Designed an **intuitive UI in Figma** for a personalized user experience.  
