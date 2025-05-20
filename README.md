@@ -19,7 +19,7 @@ This GitHub is a curated portfolio of the projects I’ve built during my time i
   - Developed an **Azure Function App** with **Queue Triggers** for vaccination status verification.  
   - Integrated **Azure Storage Queue & Azure SQL Database** for efficient data processing.  
   - Built a **.NET Core Console Application** to queue and process vaccination records.  
-  - [GitHub Repository](your-repo-link-here)  
+  - [GitHub Repository](https://github.com/Sarrucha/awehProduction)  
 
 - <b>TK and NZ Mover App – Web-Based Quoting System (JavaScript, HTML, CSS)</b>  
   - Developed a **responsive web app** for TK and NZ Trading and Projects PTY LTD to enhance online presence.  
